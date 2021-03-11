@@ -1,0 +1,38 @@
+---
+title: "Estatística Espacial - Lista 2"
+
+author: "Márcia Helena Barbian"
+output:
+  bookdown::gitbook:
+    split_by: chapter+number
+    config:
+     toc:
+       collapse: subsection
+       scroll_highlight: yes
+       before: null
+       after: null
+     toolbar:
+     edit : null
+     download: null
+     search: yes
+     fontsettings:
+       theme: white
+       family: sans
+       size: 1
+     sharing: no
+---
+
+# Essa lista pode ser feita em grupos de ATÉ 3 pessoas. {-}
+
+## Leia o post: https://www.r-bloggers.com/2021/01/predicting-injuries-for-chicago-traffic-crashes/.{-}
+
+
+## 1) Faça  um aplicativo com os dados de acidentes no trânsito de Chicago, o usuário do app deve escolher se o mapa que será plotado indicará se o acidente envolveu feridos, ou se o mapa será de locais em que não houve lesão entre os envolvidos. {-}
+
+## 2) Hospede o aplicativo no shiny.io {-}
+
+## 3) Coloque o código do app em uma pasta no github com o nome: app1 disciplina estatística espacial. {-}
+
+## 4) O alun@ ou grupo deverá apresentar a ferramenta em aula, em breve indico o dia e horário da apresentação. {-}
+
+### <font color="red"> Vou considerar as tarefas 1, 2, 3 e 4 na correcão dessa atividade, mas sugiro que vocês utilizem a criatividade para fazer a ferramenta, considerem diferentes filtros, mapas, mais abas, opções,... <font color> {-}
