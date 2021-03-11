@@ -1,0 +1,12 @@
+name: NH_lista2_espacial
+title: NH_lista2_espacial
+username:
+account: nicolas-hahn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3771847
+bundleId: 4328694
+url: https://nicolas-hahn.shinyapps.io/NH_lista2_espacial/
+when: 1615429041.92079
+asMultiple: FALSE
+asStatic: FALSE
